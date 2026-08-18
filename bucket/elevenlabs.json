@@ -1,11 +1,11 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI for the ElevenLabs API Documentation",
   "homepage": "https://github.com/rishabh-fern/elevenlabs-cli-dist-test",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/rishabh-fern/elevenlabs-cli-dist-test/releases/download/v0.0.1/elevenlabs-cli-x86_64-pc-windows-msvc.zip",
-      "hash": "7bfd931eb1632d263084a1a482825e101ebb4295aa627f19e2ab2b0caf522ed0",
+      "url": "https://github.com/rishabh-fern/elevenlabs-cli-dist-test/releases/download/v0.0.2/elevenlabs-cli-x86_64-pc-windows-msvc.zip",
+      "hash": "3ff63124fc09ea3b0869a2626e048378c80369128714e0444c081f546f6494ba",
       "bin": "elevenlabs.exe"
     }
   },
